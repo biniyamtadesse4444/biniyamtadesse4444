@@ -172,9 +172,6 @@ Right now I’m focused on:
 
 # Contact
 
-### Website
-YOUR_WEBSITE_HERE
-
 ### LinkedIn
 https://linkedin.com/in/biniyam-tadesse-kassa
 
